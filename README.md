@@ -1,4 +1,4 @@
-## rust-stealer
+## Rust-stealer
 
 # Functions:
 ### Wallet Stealer
